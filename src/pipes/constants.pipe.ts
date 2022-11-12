@@ -1,0 +1,1 @@
+export const ID_INVALID_TYPE = "Bad id format"
